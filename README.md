@@ -56,7 +56,7 @@ GRACS (GemiC ACS) is a comprehensive Auto Configuration Server (ACS) implementat
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/USERNAME/gracs-acs.git
+git clone https://github.com/nobkarina8/gracs-acs.git
 cd gracs-acs
 ```
 ```bash
@@ -322,4 +322,5 @@ For issues, questions, or feature requests, please open an issue on the reposito
 ---
 
 **Made with ⚡ by GRACS Team**
+
 
